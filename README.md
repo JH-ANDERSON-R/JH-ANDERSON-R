@@ -1,9 +1,5 @@
 ### Hi there 
 <h1 style='text-align:center'>Hi there 👋 I'm Anderson Rojas</h1>
-<!--
-**JH-ANDERSON-R/JH-ANDERSON-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Semcon SAS
 - 🌱 I’m currently learning Programming Backend and Frontend
@@ -13,6 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/jandersonrojas
 -->
 
+<!--
+**JH-ANDERSON-R/JH-ANDERSON-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
